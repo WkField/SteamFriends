@@ -17,7 +17,6 @@
 ## Steam好友列表
 | Avatar                                                                            | Name           | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:---------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/278c8978d6987f486190170963d7b86c46084292.jpg) | 江寒月            | [76561198139979826](https://steamcommunity.com/profiles/76561198139979826/) | ❌           | 2025-04-24 12:59:52 | 2025-09-03 01:38:08 |          |
 | ![](https://avatars.steamstatic.com/f2d6c6c805ce9302e49733e3dc81abe92430abf0.jpg) | 痴              | [76561199522777002](https://steamcommunity.com/profiles/76561199522777002/) | ✅           | 2023-07-20 09:55:51 |                     |          |
 | ![](https://avatars.steamstatic.com/e1dde7fe207a397634580d4755f7890ccf24ddd7.jpg) | 昵称五个字          | [76561199788752993](https://steamcommunity.com/profiles/76561199788752993/) | ✅           | 2024-11-23 15:15:43 |                     |          |
 | ![](https://avatars.steamstatic.com/5e9d837072a931f1aa54f92200f885fec7767c78.jpg) | glass apple    | [76561199563999413](https://steamcommunity.com/profiles/76561199563999413/) | ✅           | 2025-08-09 14:11:54 |                     |          |
